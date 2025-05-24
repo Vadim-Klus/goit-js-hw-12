@@ -13,7 +13,7 @@ import 'izitoast/dist/css/iziToast.min.css';
 import './css/loader.css';
 import './css/body.css';
 
-const form = document.querySelector('#search-form');
+const form = document.querySelector('.form');
 const gallery = document.querySelector('.gallery');
 const loadMoreBtn = document.querySelector('.load-more');
 
